@@ -1,0 +1,6 @@
+{
+  "name": "WoodCraft 3D",
+  "description": "Modern 3D furniture and woodworking design studio with real-time 3D board assembly, customizable dimensions, cut list generator, and CAD export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

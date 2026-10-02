@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 3D Isometric Furniture Board Composition -->
+    <!-- Table Top Top-Face (Honey Oak) -->
+    <path
+        android:pathData="M54,27 L81,42 L54,57 L27,42 Z"
+        android:fillColor="#E09F5A" />
+    <!-- Table Top Left Edge (Thickness) -->
+    <path
+        android:pathData="M27,42 L54,57 L54,61 L27,46 Z"
+        android:fillColor="#B76E2E" />
+    <!-- Table Top Right Edge (Thickness) -->
+    <path
+        android:pathData="M54,57 L81,42 L81,46 L54,61 Z"
+        android:fillColor="#8C4A15" />
+    
+    <!-- Left Leg / Board -->
+    <path
+        android:pathData="M31,48 L37,51 L37,80 L31,77 Z"
+        android:fillColor="#B76E2E" />
+    <path
+        android:pathData="M37,51 L41,49 L41,78 L37,80 Z"
+        android:fillColor="#8C4A15" />
+
+    <!-- Right Leg / Board -->
+    <path
+        android:pathData="M67,53 L73,50 L73,79 L67,82 Z"
+        android:fillColor="#B76E2E" />
+    <path
+        android:pathData="M73,50 L77,48 L77,77 L73,79 Z"
+        android:fillColor="#8C4A15" />
+
+    <!-- Stretcher / Shelf Board -->
+    <path
+        android:pathData="M37,68 L54,77 L67,70 L50,61 Z"
+        android:fillColor="#C8823E" />
+    <path
+        android:pathData="M37,68 L54,77 L54,79 L37,70 Z"
+        android:fillColor="#9C551C" />
+
+    <!-- Blueprint 3D Dimension Vector / Caliper Accent -->
+    <path
+        android:pathData="M24,38 L54,21 L84,38"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Dimension arrows/points -->
+    <path
+        android:pathData="M24,35 L24,41 M84,35 L84,41"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+</vector>
